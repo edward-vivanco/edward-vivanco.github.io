@@ -1,8 +1,8 @@
 # About Me
 
-You can use the [editor on GitHub](https://github.com/edward-vivanco/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I am an aerospace engineer from Florida who enjoys coding. My goal is to . My most fluent languages are English and Mathematics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have created this webspace to share my career's journey with whomever is interested. 
 
 ## Resume
 
