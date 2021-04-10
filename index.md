@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I am an aerospace engineer from Florida who enjoys coding. My goal is to . My most fluent languages are English and Mathematics.
+Hello, I am an aerospace engineer from Florida who enjoys coding. My goal is to help the world continue to develop technology for aviation and space. My most fluent languages are English and Mathematics.
 
 I have created this webspace to share my career's journey with whomever is interested. 
 
