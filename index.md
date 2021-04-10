@@ -6,7 +6,6 @@ I have created this webspace to share my career's journey with whomever is inter
 
 [Here is my one-pager Resume](https://edward-vivanco.github.io/documents/myResume.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Projects
 
